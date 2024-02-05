@@ -25,11 +25,7 @@ node index.js
 
 GitHub Repository:
 
-https://github.com/arkenwald/ORM-E-Commerce-Back-End
 
-Video Walkthrough:
-
-https://drive.google.com/file/d/1ptA0LpeVrfBAq-DGmXkPAiK6RuCcYHFr/view
 
 Credits
 
@@ -39,19 +35,17 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://www.npmjs.com/package/dotenv
+https://github.com/SBoudrias/Inquirer.js#readme
 
-https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
 
-https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
-
-https://sequelize.org/docs/v6/core-concepts/assocs/
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
 License
 
 MIT License
 
-Copyright (c) 2023, Peter Tong
+Copyright (c) 2024, Peter Tong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
