@@ -25,7 +25,11 @@ node index.js
 
 GitHub Repository:
 
+https://github.com/arkenwald/svg-logo-maker
 
+Video Walkthrough:
+
+https://drive.google.com/file/d/1oqy8mWOzQvh9AhHAJv3xW8WLacp110lK/view
 
 Credits
 
