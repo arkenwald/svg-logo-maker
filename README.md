@@ -5,31 +5,23 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-This back end for an e-commerce site was created by modifying starter code given to us.
+I was able to generate a simple logo for my projects using a command-line application that acecpts user input.
 
-Express.js API and Sequelize was used to interact with a MySQL database.
+Prompts for text, text color, shape and shape color were created so the user may customize their logo.
 
 Installation
 
 To install the project:
 
-npm i
-
-mysql source schema.sql
-
-npm run seed
-
-npm start
+Clone the repository on github locally to be used in Visual Studio Code.
 
 Usage
 
-WHEN I open API GET routes in Insomnia for categories, products, or tags
+In the terminal:
 
-THEN the data for each of these routes is displayed in a formatted JSON
+npm i
 
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-
-THEN I am able to successfully create, update, and delete data in my database
+node index.js
 
 GitHub Repository:
 
