@@ -5,7 +5,7 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-I was able to generate a simple logo for my projects using a command-line application that acecpts user input.
+I was able to generate a simple logo for my projects using a command-line application that accepts user input.
 
 Prompts for text, text color, shape and shape color were created so the user may customize their logo.
 
@@ -22,6 +22,8 @@ In the terminal:
 npm i
 
 node index.js
+
+follow prompts in terminal to create logo
 
 GitHub Repository:
 
